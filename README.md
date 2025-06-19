@@ -1,6 +1,6 @@
 # aima-dev
 My GitHub profile readme
-# 👋 Hi there, I’m [Your Name]  
+# 👋 Hi there, I’m Aima  
 
 I’m a digital marketing professional transitioning into the world of data analytics.  
 My experience managing campaigns sparked a passion for understanding how data can help brands connect more meaningfully with their audiences.
@@ -31,10 +31,7 @@ My experience managing campaigns sparked a passion for understanding how data ca
 ---
 
 ## 📫 Let’s Connect  
-Feel free to reach out — I’m always open to learn, collaborate, or chat:  
-📧 [your.email@example.com]  
-💼 [LinkedIn Profile URL]  
-🌐 [Portfolio Website – if any]
+Feel free to reach out — I’m always open to learn, collaborate, or chat
 
 ---
 
